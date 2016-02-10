@@ -1,0 +1,9 @@
+{
+  "name": "500",
+  "version": "0.1.0",
+  "dependencies": {
+    "duo-babel": "^6.0.0",
+    "duo-serve": "^0.15.0",
+    "express": "^4.13.4"
+  }
+}

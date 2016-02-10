@@ -1,0 +1,6 @@
+{
+  "name": "500",
+  "dependencies": {
+    "dekujs/deku": "0.5.6"
+  }
+}
